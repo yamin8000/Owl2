@@ -102,5 +102,5 @@ dependencies {
     def nav_version = "2.5.2"
     implementation "androidx.navigation:navigation-compose:$nav_version"
     //datastore
-    implementation "androidx.datastore:datastore-preferences:1.0.0"
+    implementation "androidx.datastore:datastore-preferences:1.1.0-dev01"
 }
