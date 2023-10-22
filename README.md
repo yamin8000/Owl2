@@ -1,12 +1,13 @@
 # Owl2
 
 ## Discontinued
-### Since [Owlbot](https://owlbot.info/) API is unavailable development is stopped.
+## Since [Owlbot](https://owlbot.info/) API is unavailable development is stopped
+# Check the new version [here](https://github.com/yamin8000/freeDictionaryApp)
 
 🦉 **Owl2/جغدک** is a simple android application for **OwlBot dictionary**.  
 a reincarnation of https://github.com/yamin8000/Owl
 
-Owl2 is the first project in that I used **Jetpack Compose UI** and **Material3** color system.
+Owl2 is the first project in which I used **Jetpack Compose UI** and **Material3** color system.
 
 ---
 
